@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3480" started-at="2020-01-17T22:50:15 IST" finished-at="2020-01-17T22:50:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3480" started-at="2020-01-17T22:50:15 IST" finished-at="2020-01-17T22:50:19 IST">
+      <class name="restAssuredDataDriven.DataDrivenPostReqExtrnal">
+        <test-method status="PASS" signature="getReq()[pri:0, instance:restAssuredDataDriven.DataDrivenPostReqExtrnal@610694f1]" name="getReq" duration-ms="3432" started-at="2020-01-17T22:50:15 IST" finished-at="2020-01-17T22:50:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReq -->
+      </class> <!-- restAssuredDataDriven.DataDrivenPostReqExtrnal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
