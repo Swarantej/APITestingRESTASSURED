@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restAssuredDataDriven.DataDrivenPostReq">
+      <class name="restassured.jira.apitesting.JiraAPICreateBug">
         <methods>
-          <include name="getReq" invocation-numbers="0"/>
+          <include name="JiraAPICreatBug"/>
         </methods>
-      </class> <!-- restAssuredDataDriven.DataDrivenPostReq -->
+      </class> <!-- restassured.jira.apitesting.JiraAPICreateBug -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
